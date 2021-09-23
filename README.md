@@ -4,10 +4,16 @@
 
 **nalcoding(BASE_DIR)**
 
-1. BASE_DIR 
+1. BASE_DIR --> code
 2. code / data 
-3. SLP/MLP/util/CNN 
+3. SLP/MLP/util/CNN
 4. (regression/binary/multi) / mlp / (adam / dataset / math) 
+
+1. BASE_DIR --> data
+2. code / data 
+3. SLP/MLP/util/CNN
+4. (abalone/pulsar_stars/faults)
+5. dataet.csv
 
 # dataset of big size file can't uploade to github 
 
