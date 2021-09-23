@@ -16,7 +16,7 @@
 2. code / data 
 3. SLP/MLP/util/CNN
 4. (abalone/pulsar_stars/faults)
-5. dataet.csv
+5. dataset.csv
 
 # dataset of big size file can't uploade to github 
 
