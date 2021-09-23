@@ -29,4 +29,4 @@ office31_url = https://drive.google.com/file/d/0B4IapRTv9pJ1WGZVd1VDMmhwdlE/view
 flowers_url = https://www.kaggle.com/alxmamaev/flowers-recognition
 
 
-I have plan will make NumPy nalcoding to PyTorch
+I have plan will make NumPy nalcoding to PyTorch : )
