@@ -5,12 +5,14 @@
 **nalcoding(BASE_DIR)**
 
 ----------------------------------------------
-1. BASE_DIR --> code
+<code>
+1. BASE_DIR
 2. code / data 
 3. SLP/MLP/util/CNN
 4. (regression/binary/multi) / mlp / (adam / dataset / math) 
 ----------------------------------------------
-1. BASE_DIR --> data
+<data>
+1. BASE_DIR
 2. code / data 
 3. SLP/MLP/util/CNN
 4. (abalone/pulsar_stars/faults)
